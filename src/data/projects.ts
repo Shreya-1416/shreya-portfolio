@@ -23,7 +23,7 @@ export const projects = [
 
     github: "https://github.com/Shreya-1416/document-ai",
 
-    live: "",
+    live: "https://document-ai-six.vercel.app/",
   },
 
   {
@@ -50,7 +50,7 @@ export const projects = [
     github:
       "https://github.com/Shreya-1416/atomquest-performance-management",
 
-    live: "",
+    live: "https://atomquest-performance-management.vercel.app/",
   },
 
   {
@@ -76,6 +76,6 @@ export const projects = [
     github:
       "https://github.com/Shreya-1416/Syntecxhub_Kanban_Board",
 
-    live: "",
+    live: "https://shreya-1416.github.io/Syntecxhub_Kanban_Board/",
   },
 ];
