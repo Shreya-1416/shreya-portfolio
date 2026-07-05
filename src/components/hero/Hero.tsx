@@ -90,7 +90,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Shreya_Gupta_Resume_.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border border-neutral-300 bg-white px-8 py-4 transition-all duration-300 hover:-translate-y-1 hover:border-black hover:shadow-lg"
