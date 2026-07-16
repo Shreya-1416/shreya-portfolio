@@ -101,7 +101,7 @@ export default function Navbar() {
             ))}
 
             <a
-              href="/Shreya_Gupta_Resume_.pdf"
+              href="/Resume_.pdf"
               target="_blank"
               className="mt-2 block rounded-xl bg-black px-5 py-3 text-center font-medium text-white"
             >
