@@ -62,7 +62,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="/Shreya_Gupta_Resume_.pdf"
+            href="/Resume_.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-full border px-6 py-3 transition hover:bg-neutral-100"
